@@ -410,7 +410,7 @@ public class Main {
                 if (loadedClasses.containsKey(className)) {
                     return;
                 }
-                Class<?> classFound = Class.forName("lib." + className);
+                Class<?> classFound = Class.forName("lib.SB" + className);
                 loadedClasses.put(className, classFound);
             } catch (ClassNotFoundException e) {
                 // todo: add error handling

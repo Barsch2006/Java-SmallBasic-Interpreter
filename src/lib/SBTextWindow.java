@@ -1,6 +1,6 @@
 package lib;
 
-public class TextWindow {
+public class SBTextWindow {
     /*
      * Writes a line to the console with a new line character at the end.
      */

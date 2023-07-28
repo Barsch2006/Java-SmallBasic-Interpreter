@@ -15,6 +15,12 @@ It is also more customizeable. You can change the syntax if you want to.
 
 ⚠ you have to add your own lib classes. That will create some more differences to the original ⚠
 
+## Customize
+
+Just add a your compiled `.class` files to the `lib` directory.
+**Please mind:** Your classes have to start width _"SB"_ this will be added automaticly by finding the class.
+In your `.sb`-file you can then just write the className without the _"SB"_ and without the _"lib."_!
+
 ## Running it
 
 ```bash
