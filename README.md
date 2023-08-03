@@ -14,6 +14,7 @@ It is also more customizeable. You can change the syntax if you want to.
 ## ToDos
 
 ⚠ you have to add your own lib classes. That will create some more differences to the original ⚠
+**No Arrays** --> maybe I will add them in a later version
 
 ## Customize
 
